@@ -1,5 +1,6 @@
 Analyze page speed results to find the issues
 
+`npm install`
 
 ```sql
 select
